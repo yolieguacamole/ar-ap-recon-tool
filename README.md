@@ -2,7 +2,7 @@
 
 A beautifully minimalist reconciliation tool built with Python and Streamlit. Upload invoice and payment data, visualize matches, and track discrepancies — all with a clean Mojave-branded interface.
 
-![Logo](data/logo.png)
+<img src="data/logo.png" alt="Mojave Logo" width="200"/>
 
 ---
 
