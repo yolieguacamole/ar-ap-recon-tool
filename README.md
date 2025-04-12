@@ -4,7 +4,7 @@
 
 👉 **[Launch the Live App](https://ar-ap-recon-tool-cofjotw6jaosmb3wsmwdy6.streamlit.app/)**
 
-A beautifully minimalist reconciliation tool built with Python and Streamlit. Upload invoice and payment data, visualize matches, and track discrepancies — all with a clean Mojave-branded interface.
+A beautifully minimalist reconciliation tool built with Python and Streamlit by Mojave Technologies. Upload invoice and payment data, visualize matches, and track discrepancies — all with a clean interface.
 
 <img src="data/logo.png" alt="Mojave Logo" width="200"/>
 
