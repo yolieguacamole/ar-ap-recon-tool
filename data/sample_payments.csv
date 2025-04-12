@@ -1,0 +1,121 @@
+payment_id,customer_name,amount_paid,date
+PAY2001,"Perry, Pearson and Clark",1203.77,2025-04-20
+PAY2002,"Ray, White and Ramirez",613.68,2025-04-26
+PAY2003,Marshall-Gonzalez,679.8,2025-04-28
+PAY2004,Delgado Group,1125.57,2025-03-02
+PAY2005,"Chavez, Gonzalez and Tapia",415.3,2025-04-17
+PAY2006,Beck Ltd,564.63,2025-03-16
+PAY2007,Greene LLC,1406.54,2025-04-01
+PAY2008,West-Dudley,615.81,2025-04-07
+PAY2009,Sherman Group,1367.03,2025-04-21
+PAY2010,Johnson Ltd,1350.07,2025-03-31
+PAY2011,Ingram Group,814.86,2025-04-29
+PAY2012,"George, Bennett and Hall",871.19,2025-04-26
+PAY2013,"Jimenez, Harmon and Robinson",897.0,2025-04-08
+PAY2014,"Kerr, Dominguez and Baker",460.93,2025-04-27
+PAY2015,"Williams, Reyes and Wilson",1080.5,2025-04-08
+PAY2016,"Jones, Simpson and Coffey",634.74,2025-03-29
+PAY2017,Parker-Vasquez,386.73,2025-04-11
+PAY2018,"Jackson, Lam and Ashley",824.65,2025-03-08
+PAY2019,Harris Inc,1199.74,2025-04-18
+PAY2020,Johnson-Brown,672.18,2025-04-13
+PAY2021,Davis-Montoya,786.79,2025-03-07
+PAY2022,Martinez-Aguilar,446.82,2025-03-19
+PAY2023,Baker Inc,400.24,2025-03-08
+PAY2024,Phillips Group,408.76,2025-04-16
+PAY2025,Mann-Rosales,1109.57,2025-04-13
+PAY2026,Warren Group,441.33,2025-03-04
+PAY2027,Bradley-Gibson,1136.02,2025-04-03
+PAY2028,Brown Group,1333.74,2025-04-21
+PAY2029,"Cox, Gonzalez and Wilkerson",966.15,2025-03-04
+PAY2030,Murray PLC,1256.7,2025-04-06
+PAY2031,Smith and Sons,1439.31,2025-04-19
+PAY2032,Parker and Sons,1294.96,2025-04-06
+PAY2033,"Fox, Johnson and Wolf",791.86,2025-04-20
+PAY2034,White LLC,1555.44,2025-03-27
+PAY2035,Moreno Inc,445.18,2025-04-05
+PAY2036,Williams Group,742.65,2025-04-13
+PAY2037,Barnes Group,977.62,2025-04-18
+PAY2038,Murphy LLC,1166.23,2025-03-21
+PAY2039,"Taylor, Newton and Lawrence",1469.65,2025-04-02
+PAY2040,Lawrence-Johnson,910.55,2025-03-20
+PAY2041,"Smith, Goodwin and Hanson",548.56,2025-03-20
+PAY2042,"Boyd, Gomez and Williams",913.49,2025-04-11
+PAY2043,"Ayers, Wolf and Williams",950.27,2025-04-20
+PAY2044,Day-Blake,635.09,2025-03-17
+PAY2045,Johnson LLC,687.75,2025-03-16
+PAY2046,Gallagher-Sparks,667.0,2025-03-31
+PAY2047,Johnson-Hamilton,989.83,2025-03-03
+PAY2048,Wilkins-Smith,1064.58,2025-04-03
+PAY2049,Gilbert-Greene,1422.24,2025-04-10
+PAY2050,Winters-Morgan,518.8,2025-03-26
+PAY2051,"Krause, Reid and Bailey",708.55,2025-03-15
+PAY2052,Walters Group,1195.0,2025-04-11
+PAY2053,Stevens LLC,574.27,2025-04-04
+PAY2054,Sandoval-Hughes,1393.1,2025-03-25
+PAY2055,Mcdonald Ltd,1192.06,2025-03-05
+PAY2056,Steele Group,635.12,2025-04-18
+PAY2057,"Ortiz, Moran and Aguilar",391.07,2025-04-16
+PAY2058,"Reyes, Johnson and Lucero",443.18,2025-03-27
+PAY2059,Herrera-Bernard,505.21,2025-04-16
+PAY2060,"Santos, Delgado and Salinas",754.86,2025-04-09
+PAY2061,Reid-Castro,497.91,2025-03-03
+PAY2062,Thompson-Murphy,603.63,2025-03-26
+PAY2063,Love-Kennedy,617.13,2025-04-11
+PAY2064,"Guerra, Fleming and Graham",1495.28,2025-04-27
+PAY2065,"Zhang, Welch and Taylor",1405.76,2025-04-23
+PAY2066,Pruitt Inc,1009.42,2025-04-21
+PAY2067,Hanson-Newton,1236.62,2025-03-03
+PAY2068,Meadows and Sons,1255.63,2025-04-08
+PAY2069,"Anderson, Allen and Young",1188.2,2025-04-04
+PAY2070,"Carlson, Kelly and Steele",651.93,2025-03-01
+PAY2071,Savage-Johnson,591.79,2025-03-24
+PAY2072,Evans-Walter,699.08,2025-04-14
+PAY2073,Christian and Sons,1402.96,2025-03-12
+PAY2074,"Moore, Fowler and Powell",942.22,2025-04-12
+PAY2075,Mills-Jones,1465.69,2025-03-06
+PAY2076,Mccoy PLC,723.65,2025-03-04
+PAY2077,Rodriguez-Estrada,1199.64,2025-03-24
+PAY2078,"Price, Adams and Pearson",692.81,2025-03-20
+PAY2079,"Soto, Lopez and Cochran",1451.97,2025-03-04
+PAY2080,"Adams, Camacho and Crosby",1100.53,2025-04-12
+PAY2081,"Davis, Long and Mcdaniel",887.38,2025-03-25
+PAY2082,Espinoza-Baldwin,820.39,2025-03-19
+PAY2083,Ashley PLC,1280.28,2025-04-02
+PAY2084,"Garcia, Stark and Bright",1324.59,2025-04-04
+PAY2085,Armstrong and Sons,895.7,2025-03-24
+PAY2086,Robertson Ltd,1483.86,2025-03-27
+PAY2087,Lane-Soto,744.89,2025-04-01
+PAY2088,"Miller, Hansen and Butler",648.76,2025-03-10
+PAY2089,"Dennis, Smith and Thompson",1347.97,2025-04-03
+PAY2090,Nicholson-Perez,1038.02,2025-04-17
+PAY2091,Romero-Barr,1267.01,2025-03-30
+PAY2092,"Riley, Carter and Gibson",625.32,2025-04-26
+PAY2093,Smith-Peterson,630.3,2025-03-16
+PAY2094,Bryant PLC,553.38,2025-03-28
+PAY2095,Carpenter-Brown,1091.89,2025-04-20
+PAY2096,"Ballard, Watkins and Russell",887.51,2025-04-13
+PAY2097,Griffin-Graham,1366.6,2025-04-28
+PAY2098,Stewart Ltd,1036.18,2025-03-27
+PAY2099,Willis-Humphrey,1301.48,2025-03-20
+PAY2100,"Hamilton, Adams and Acosta",1168.5,2025-03-04
+PAY2101,"Espinoza, Cook and Gomez",1051.47,2025-04-10
+PAY2102,"Stein, Wilson and Pope",946.88,2025-03-01
+PAY2103,Howard and Sons,1024.73,2025-04-09
+PAY2104,Jordan-Parker,1247.52,2025-04-21
+PAY2105,"King, Shea and Miller",496.0,2025-04-16
+PAY2106,Lutz-Wood,813.96,2025-04-04
+PAY2107,"Harper, Brooks and Little",548.62,2025-04-19
+PAY2108,"Porter, Walter and Waters",1111.34,2025-03-14
+PAY2109,Kennedy-Chen,1374.97,2025-04-18
+PAY2110,"Freeman, Foster and Perkins",692.32,2025-03-25
+PAY2111,"Powers, Williams and Stevenson",1149.15,2025-04-25
+PAY2112,"Little, Clark and Williams",584.47,2025-04-09
+PAY2113,"Wade, Horton and Jimenez",436.91,2025-03-08
+PAY2114,"Peterson, Merritt and Butler",891.65,2025-04-20
+PAY2115,"Medina, Allen and Duran",1201.45,2025-04-04
+PAY2116,Wheeler-Martinez,1023.51,2025-03-30
+PAY2117,Bauer-Rosales,525.22,2025-03-07
+PAY2118,"Barber, Lee and Alvarez",405.09,2025-04-11
+PAY2119,Williams LLC,726.34,2025-04-14
+PAY2120,Martinez and Sons,648.62,2025-04-14
