@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#e37b40"  # soft orange
+backgroundColor = "#fffaf0"  # off-white cream
+secondaryBackgroundColor = "#f5e9dc"  # light beige
+textColor = "#1e1e1e"
+font = "sans serif"
