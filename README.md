@@ -1,6 +1,6 @@
 # 🌵 Reconciliation Dashboard by Mojave Technologies
 
-[![App Screenshot](screenshot.png)](https://ar-ap-recon-tool-cofjotw6jaosmb3wsmwdy6.streamlit.app/)
+![App Screenshot](data/screenshot.png)
 
 👉 **[Launch the Live App](https://ar-ap-recon-tool-cofjotw6jaosmb3wsmwdy6.streamlit.app/)**
 
